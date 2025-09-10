@@ -251,7 +251,7 @@ show tables;
 
 
 
-## Conclusion
+## Summary :
 
 In this project, we successfully deployed a WordPress website on an AWS EC2 instance using the LEMP stack (Linux, Nginx, MySQL, and PHP). I started by launching a server on AWS, then installed and configured all the necessary software to run WordPress.
 
