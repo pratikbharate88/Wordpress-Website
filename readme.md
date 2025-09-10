@@ -188,7 +188,6 @@ show databases;
 ## Step → 10 : Grant Permission to Wordpress Directory
 
 > [!IMPORTANT]
-
 >```bash
 >sudo chmod -R 777 Wordpress/
 >```
